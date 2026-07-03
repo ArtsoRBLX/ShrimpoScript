@@ -1,4 +1,4 @@
--- Shrimpo's GUI v2
+-- Shrimpo's GUI v0.0.2
 -- Made by spinning Shrimpo | TikTok/YouTube/Root/Discord
 
 -- =============================================
